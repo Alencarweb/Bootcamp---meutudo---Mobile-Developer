@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2,
+    "name": "Tech Talks Daily",
+    "members": [
+      "Sandra Kim"
+    ],
+    "likes": 7800,
+    "views": 42000
+  },
+  {
+    "id": 3,
+    "name": "AI Unplugged",
+    "members": [
+      "Dr. Leo Grant",
+      "Nina Torres",
+      "Carlos Wu"
+    ],
+    "likes": 12000,
+    "views": 95000
+  },
+  {
+    "id": 4,
+    "name": "Startup Stories",
+    "members": [
+      "Emma Chen"
+    ],
+    "likes": 5600,
+    "views": 30500
+  },
+  {
+    "id": 5,
+    "name": "The Debugging Hour",
+    "members": [
+      "Devon Clark",
+      "Priya Patel"
+    ],
+    "likes": 4100,
+    "views": 22000
+  }
+]

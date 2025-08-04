@@ -1,0 +1,16 @@
+{
+  "name": "dio-api-intro",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bunx --watch src/index.ts",
+    "debug": "bunx --watch src/index.ts --inspect"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
